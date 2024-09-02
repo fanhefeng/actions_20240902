@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "vitepress-doc", // 部署到github pages时的路径，如果没有配置，会导致css样式丢失
+  base: "actions_20240902", // 部署到github pages时的路径，如果没有配置，会导致css样式丢失
   title: "My Awesome Project",
   description: "A VitePress Site",
   themeConfig: {
